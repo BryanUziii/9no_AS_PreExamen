@@ -36,9 +36,10 @@
                 android:textSize="20sp" />
 
             <EditText
+                android:id="@+id/inputUsuario"
                 android:layout_width="300sp"
                 android:layout_height="75dp"
-                android:hint="Ingrese nombre y apellido"
+                android:hint="Ingrese su nombre"
                 android:textAlignment="center" />
 
             <ImageView
